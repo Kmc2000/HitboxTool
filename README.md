@@ -15,6 +15,10 @@ A primitive hitbox generator for NSV13 ships.
 
 * Place the points in a _counter clockwise_ direction (as shown on the wheel to the top left) until you have a suitable bounding hitbox. Then click the button in the top left to get your outputted code.
 
+* We currently require that all shapes are convex. Concave shapes will break the hitboxes.
+
+![concave vs convex](https://www.differencebetween.info/sites/default/files/images/4/Convex_and_concave.jpg "What each one looks like")
+
 * Finally, copy paste the code it gives you onto your overmap object. This should look similar to:
 
 /obj/structure/example
