@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HitboxGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HitboxGenerator_jar</output-path>
+    <root id="archive" name="HitboxGenerator.jar">
+      <element id="module-output" name="HitboxGenerator" />
+    </root>
+  </artifact>
+</component>

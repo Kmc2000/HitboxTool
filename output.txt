@@ -1,0 +1,1 @@
+collision_positions = list(new /datum/vector2d(-16,216), new /datum/vector2d(-68,84), new /datum/vector2d(-62,-105), new /datum/vector2d(-16,-215), new /datum/vector2d(50,-190), new /datum/vector2d(57,83), new /datum/vector2d(15,215), new /datum/vector2d(-94,201))

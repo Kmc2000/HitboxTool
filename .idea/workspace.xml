@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebbe4193-0de9-4e32-be7d-280213886a24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ag5GPN6CRMY581pcwHg6oWRyvk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kjrm.Application" />
+      <module name="HitboxGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kjrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="HitboxGenerator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kjrm.converter" />
+      <module name="HitboxGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kjrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kjrm.testPane" />
+      <module name="HitboxGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kjrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.testPane" />
+      <item itemvalue="Application.converter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.converter" />
+        <item itemvalue="Application.testPane" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebbe4193-0de9-4e32-be7d-280213886a24" name="Default Changelist" comment="" />
+      <created>1587144300163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587144300163</updated>
+      <workItem from="1587144303286" duration="40069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1587146693805">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="409" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.349.1920.1040@0.0.2560.1400" timestamp="1587146693805" />
+    <state x="1010" y="483" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587260985566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="483" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400/2560.349.1920.1040@0.0.2560.1400" timestamp="1587260985566" />
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587258950640">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.349.1920.1040@0.0.2560.1400" timestamp="1587258950640" />
+    <state x="1060" y="426" key="FileChooserDialogImpl" timestamp="1587145871045">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="426" key="FileChooserDialogImpl/0.0.2560.1400/2560.349.1920.1040@0.0.2560.1400" timestamp="1587145871045" />
+    <state width="2517" height="346" key="GridCell.Tab.0.bottom" timestamp="1587260362944">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="346" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.349.1920.1040@0.0.2560.1400" timestamp="1587260362944" />
+    <state width="2517" height="346" key="GridCell.Tab.0.center" timestamp="1587260362944">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="346" key="GridCell.Tab.0.center/0.0.2560.1400/2560.349.1920.1040@0.0.2560.1400" timestamp="1587260362944" />
+    <state width="2517" height="346" key="GridCell.Tab.0.left" timestamp="1587260362944">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="346" key="GridCell.Tab.0.left/0.0.2560.1400/2560.349.1920.1040@0.0.2560.1400" timestamp="1587260362944" />
+    <state width="2517" height="346" key="GridCell.Tab.0.right" timestamp="1587260362944">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="346" key="GridCell.Tab.0.right/0.0.2560.1400/2560.349.1920.1040@0.0.2560.1400" timestamp="1587260362944" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1587261002990">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.349.1920.1040@0.0.2560.1400" timestamp="1587261002990" />
+  </component>
+</project>
